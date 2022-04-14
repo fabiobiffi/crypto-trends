@@ -1,2 +1,5 @@
-# soccer-trends
-Repository of Soccer Trends, an online web application for soccer
+# Welcome to Crypto Trends
+This is a project made by
+
+- Ali Agkale
+- Fabio Biffi
